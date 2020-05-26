@@ -19,10 +19,10 @@ Project allows users to guess random predefine words, based on  the novel and mo
 ### Details
 
 To use the store is fairly straight forward. If you want to download it
-$ git clone 
+$ git clone  https://github.com/CaronJay/Hangman.git
 $ cd mine
 $ npm install
 
 
 ## Credits
-This online store was solely created by myself - Caron Johannes
+This game was solely created by myself- Caron Johannes
